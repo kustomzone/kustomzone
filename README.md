@@ -1,6 +1,7 @@
 #### News (13/7/2020)
 
-- Massive blaze aboard ship at Naval Base San Diego in US..
+- Massive blaze aboard ship at Naval Base San Diego in US.
+https://www.nbcsandiego.com/news/local/crews-battle-3-alarm-blaze-on-military-assault-ship/2363877/
 <img src="https://resources.stuff.co.nz/content/dam/images/4/y/n/8/5/3/image.related.StuffThumbnailSixteenByNine.1600x900.4yn84g.png/1594587460551.jpg"> 
 
 [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
