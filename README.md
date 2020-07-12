@@ -4,7 +4,7 @@
 - Watching: <p align="center"> Hackernews (https://news.ycombinator.com/) </p>
             <p align="center"> Worldometer (https://worldometers.info/coronavirus/) </p>
 
-**Study Links**
+## Study Links
 
 - Github profile topic: https://news.ycombinator.com/item?id=23807881
 - Profile Page Auto-updating: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
@@ -13,4 +13,4 @@
 - Deno Land:   https://deno.land/std/wasi/README.md
 - Caffine:     https://github.com/ccrraaiigg/caffeine
 
-[![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) <p align="center"><i> https://randos.online/ </i></p>
+<p align="center"> [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next)  <i> https://randos.online/ </i> </p>
