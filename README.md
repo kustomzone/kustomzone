@@ -13,4 +13,4 @@
 - Deno Land:   https://deno.land/std/wasi/README.md
 - Caffine:     https://github.com/ccrraaiigg/caffeine
 
-<p align="center"> [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next)  <i> https://randos.online/ </i> </p>
+<span align="center"> [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next)  ... https://randos.online/ </span>
