@@ -1,10 +1,19 @@
-#### News (13/7/2020)
+#####(D9/M11/2020)
 
-- Massive blaze aboard ship at Naval Base San Diego in US.<br>
-https://www.nbcsandiego.com/news/local/crews-battle-3-alarm-blaze-on-military-assault-ship/2363877/
-<img src="https://resources.stuff.co.nz/content/dam/images/4/y/n/8/5/3/image.related.StuffThumbnailSixteenByNine.1600x900.4yn84g.png/1594587460551.jpg"> 
+## <p align="center"> Github Strike </p>
+
+https://news.ycombinator.com/item?id=25032105
+
+<br>
+
+https://github.com/Marak/faker.js/issues/1046
+
+<img src="img/GithubStrike.jpg">
 
 [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
+
+
+<p align="center"> ------------------------------------------------------------------------------- </p>
 
 ### Howdy! 👋
 
