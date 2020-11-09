@@ -2,11 +2,9 @@
 
 ## <p align="center"> Github Strike </p>
 
-<H4> No More Free Work from Marak: Pay Me or Fork This </H4>
-
-<a href="https://news.ycombinator.com/item?id=25032105&p=1"> discussion page 1 </a>
-<a href="https://news.ycombinator.com/item?id=25032105&p=2"> discussion page 2 </a>
-<a href="https://news.ycombinator.com/item?id=25032105&p=3"> discussion page 3 </a> 
+<H4> No More Free Work from Marak: Pay Me or Fork This:</H4> <a href="https://news.ycombinator.com/item?id=25032105&p=1"> discussion page 1 </a>
+, <a href="https://news.ycombinator.com/item?id=25032105&p=2"> discussion page 2 </a>
+, <a href="https://news.ycombinator.com/item?id=25032105&p=3"> discussion page 3 </a> 
 
 <hr>
 
@@ -26,17 +24,19 @@ https://landshark.io/2020/11/09/no-free-features.html
 
 <p align="center"> ------------------------------------------------------------------------------- </p>
 
-### Howdy! 👋
+### <p align="center"> Study Links </p>
 
-- Working on: This profile page! (https://github.com/kustomzone/kustomzone)
-- Watching: <p align="center"> Hackernews (https://news.ycombinator.com/) </p>
-            <p align="center"> Worldometer (https://worldometers.info/coronavirus/) </p>
+- Why Rust is the Future of Game Development: https://thefuntastic.com/blog/why-rust-is-the-future-game-dev
 
-## Study Links
+<br>
 
-- Github profile topic: https://news.ycombinator.com/item?id=23807881
+- Github profile topic: https://news.ycombinator.com/item?id=23807881 on <a href="https://news.ycombinator.com/">Hackernews</a>
 - Profile Page Auto-updating: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+
+<br>
 
 - Web3Torrent: https://web3torrent.statechannels.org/
 - Deno Land:   https://deno.land/std/wasi/README.md
 - Caffine:     https://github.com/ccrraaiigg/caffeine
+
+<hr>
