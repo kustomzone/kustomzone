@@ -2,17 +2,23 @@
 
 ## <p align="center"> Github Strike </p>
 
-https://news.ycombinator.com/item?id=25032105
+<H4> No More Free Work from Marak: Pay Me or Fork This </H4>
 
-<br>
+<a href="https://news.ycombinator.com/item?id=25032105&p=1">discussion page 1</a>, <a href="https://news.ycombinator.com/item?id=25032105&p=2>page 2</a>, <a href="https://news.ycombinator.com/item?id=25032105&p=3>page 3</a>
 
-<a href="https://github.com/Marak/faker.js/issues/1046"><img src="img/GithubStrike.jpg"></a>
+<hr>
 
 ### <p align="center"> Unpaid Interns </p>
+
+<H4> No Free Features </H4>
 
 https://landshark.io/2020/11/09/no-free-features.html
 
 ## <p align="center"> ... </p>
+
+<hr>
+
+<a href="https://github.com/Marak/faker.js/issues/1046"><img src="img/GithubStrike.jpg"></a>
 
 [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
 
