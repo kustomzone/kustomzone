@@ -4,7 +4,9 @@
 
 <H4> No More Free Work from Marak: Pay Me or Fork This </H4>
 
-<a href="https://news.ycombinator.com/item?id=25032105&p=1">discussion page 1</a>, <a href="https://news.ycombinator.com/item?id=25032105&p=2>page 2</a>, <a href="https://news.ycombinator.com/item?id=25032105&p=3>page 3</a>
+<a href="https://news.ycombinator.com/item?id=25032105&p=1"> discussion page 1 </a>
+<a href="https://news.ycombinator.com/item?id=25032105&p=2"> discussion page 2 </a>
+<a href="https://news.ycombinator.com/item?id=25032105&p=3"> discussion page 3 </a> 
 
 <hr>
 
