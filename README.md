@@ -1,4 +1,4 @@
-#####(D9/M11/2020)
+##### (D9/M11/2020)
 
 ## <p align="center"> Github Strike </p>
 
@@ -6,12 +6,15 @@ https://news.ycombinator.com/item?id=25032105
 
 <br>
 
-https://github.com/Marak/faker.js/issues/1046
+<a href="https://github.com/Marak/faker.js/issues/1046"><img src="img/GithubStrike.jpg"></a>
 
-<img src="img/GithubStrike.jpg">
+### <p align="center"> Unpaid Interns </p>
+
+https://landshark.io/2020/11/09/no-free-features.html
+
+## <p align="center"> ... </p>
 
 [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
-
 
 <p align="center"> ------------------------------------------------------------------------------- </p>
 
