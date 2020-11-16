@@ -14,6 +14,10 @@
 
 https://landshark.io/2020/11/09/no-free-features.html
 
+<H4> No, "Open Source" does not mean "Includes Free Support" </H4>
+
+https://raccoon.onyxbits.de/blog/bugreport-free-support/
+
 ## <p align="center"> ... </p>
 
 <hr>
