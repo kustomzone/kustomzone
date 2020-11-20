@@ -2,12 +2,12 @@
 
 #### Unpaid Interns
 
-<p> No Free Features : </p> https://landshark.io/2020/11/09/no-free-features.html
-<p> No, "Open Source" does not mean "Includes Free Support" : </p> https://raccoon.onyxbits.de/blog/bugreport-free-support/
-<p> The Few, the Tired, the Open Source Coders : </p> https://www.wired.com/story/open-source-coders-few-tired/
+<p> No Free Features : https://landshark.io/2020/11/09/no-free-features.html</p>
+<p> No, "Open Source" does not mean "Includes Free Support" : https://raccoon.onyxbits.de/blog/bugreport-free-support/</p>
+<p> The Few, the Tired, the Open Source Coders : https://www.wired.com/story/open-source-coders-few-tired/</p>
 <p> No More Free Work from Marak: Pay Me or Fork This:</p> <a href="https://news.ycombinator.com/item?id=25032105&p=1">  page 1 </a>
 , <a href="https://news.ycombinator.com/item?id=25032105&p=2">  page 2 </a>
-, <a href="https://news.ycombinator.com/item?id=25032105&p=3">  page 3 </a>
+, <a href="https://news.ycombinator.com/item?id=25032105&p=3">  page 3 </a></p>
 
 <a href="https://github.com/Marak/faker.js/issues/1046"><img src="img/GithubStrike.jpg"></a>
 
