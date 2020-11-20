@@ -1,32 +1,19 @@
-##### (D9/M11/2020)
+##### (D20/M11/2020)
 
-## <p align="center"> Github Strike </p>
+#### Unpaid Interns
 
-<H4> No More Free Work from Marak: Pay Me or Fork This:</H4> <a href="https://news.ycombinator.com/item?id=25032105&p=1"> discussion page 1 </a>
-, <a href="https://news.ycombinator.com/item?id=25032105&p=2"> discussion page 2 </a>
-, <a href="https://news.ycombinator.com/item?id=25032105&p=3"> discussion page 3 </a> 
-
-<hr>
-
-### <p align="center"> Unpaid Interns </p>
-
-<H4> No Free Features </H4>
-
-https://landshark.io/2020/11/09/no-free-features.html
-
-<H4> No, "Open Source" does not mean "Includes Free Support" </H4>
-
-https://raccoon.onyxbits.de/blog/bugreport-free-support/
-
-## <p align="center"> ... </p>
-
-<hr>
+<p> No Free Features : </p> https://landshark.io/2020/11/09/no-free-features.html
+<p> No, "Open Source" does not mean "Includes Free Support" : </p> https://raccoon.onyxbits.de/blog/bugreport-free-support/
+<p> The Few, the Tired, the Open Source Coders : </p> https://www.wired.com/story/open-source-coders-few-tired/
+<p> No More Free Work from Marak: Pay Me or Fork This:</p> <a href="https://news.ycombinator.com/item?id=25032105&p=1">  page 1 </a>
+, <a href="https://news.ycombinator.com/item?id=25032105&p=2">  page 2 </a>
+, <a href="https://news.ycombinator.com/item?id=25032105&p=3">  page 3 </a>
 
 <a href="https://github.com/Marak/faker.js/issues/1046"><img src="img/GithubStrike.jpg"></a>
 
 [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
 
-<p align="center"> ------------------------------------------------------------------------------- </p>
+<p align="center"> ---------------------------------- </p>
 
 ### <p align="center"> Study Links </p>
 
@@ -49,7 +36,9 @@ https://raccoon.onyxbits.de/blog/bugreport-free-support/
     <a href="https://github.com/kustomzone">
         <img height="25" src="https://img.shields.io/github/followers/kustomzone?label=follow&style=social">
     </a>
-</div><br><br>
+</div>
+
+<br>
 
 <p align="center" justify="center">
   <a href="https://github.com/kustomzone/github-readme-stats" target="_blank" justify="center">
@@ -59,4 +48,3 @@ https://raccoon.onyxbits.de/blog/bugreport-free-support/
 </p>
 
 <hr>
-<br>
