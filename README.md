@@ -26,9 +26,10 @@
 
 <br>
 
-- Web3Torrent: https://web3torrent.statechannels.org/
-- Deno Land:   https://deno.land/std/wasi/README.md
+- Ruffle:      https://github.com/ruffle-rs/ruffle  &nbsp; <i>(A Flash Player emulator written in Rust)</i>
 - Caffine:     https://github.com/ccrraaiigg/caffeine
+- Deno Land:   https://deno.land/std/wasi/README.md
+- Web3Torrent: https://web3torrent.statechannels.org/
 
 <br>
 
