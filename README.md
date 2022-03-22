@@ -1,6 +1,4 @@
-##### (D5/M2/2021)
-
-[![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
+#### (D22/M03/2022)
 
 <p align="center"> ---------------------------------- </p>
 
@@ -19,10 +17,15 @@
 
 <br>
 
+### <p align="center"> [Github Feedback](https://github.com/github/feedback/discussions/categories/general-feedback) </p>
+
 <div>
     <a href="https://github.com/kustomzone">
         <img height="25" src="https://img.shields.io/github/followers/kustomzone?label=follow&style=social">
     </a>
+    
+    [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
+
 </div>
 
 <br>
