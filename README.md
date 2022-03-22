@@ -1,6 +1,4 @@
-#### (D22/M03/2022)
-
-<p align="center"> ---------------------------------- </p>
+##### Updated: (D22/M03/2022)
 
 ### <p align="center"> Study Links </p>
 
@@ -23,10 +21,9 @@
     <a href="https://github.com/kustomzone">
         <img height="25" src="https://img.shields.io/github/followers/kustomzone?label=follow&style=social">
     </a>
-    
-    [![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
-
 </div>
+
+[![Profile Webring](https://randos.online/u/kustomzone)](https://randos.online/u/kustomzone/next) 
 
 <br>
 
@@ -36,6 +33,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustomzone&title_color=2e2e2e&layout=compact" />
   </a>
 </p -->
-
 
 <hr>
