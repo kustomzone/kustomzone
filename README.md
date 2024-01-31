@@ -1,4 +1,3 @@
-##### Updated: (D22/M03/2022)
 
 ### <p align="center"> Study Links </p>
 
@@ -6,12 +5,13 @@
 - Profile Page Auto-updating: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 <br>
-- Why Rust is the Future of Game Development: https://thefuntastic.com/blog/why-rust-is-the-future-game-dev
 
-- Ruffle:      https://github.com/ruffle-rs/ruffle  &nbsp; <i>(A Flash Player emulator written in Rust)</i>
-- Caffine:     https://github.com/ccrraaiigg/caffeine
-- Deno Land:   https://deno.land/std/wasi/README.md
-- Web3Torrent: https://web3torrent.statechannels.org/
+- Deno Land:    https://deno.land
+- Caffine:      https://github.com/ccrraaiigg/caffeine
+- Web3Torrent:  https://web3torrent.statechannels.org/
+
+- Rust & Game Dev:  https://thefuntastic.com/blog/why-rust-is-the-future-game-dev
+- Ruffle:           https://github.com/ruffle-rs/ruffle  &nbsp; <i>(A Flash Player emulator written in Rust)</i>
 
 <br>
 
