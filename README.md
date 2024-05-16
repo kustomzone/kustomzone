@@ -1,9 +1,9 @@
 
 ### <p align="center"> Study Links </p>
 
-- Deno Land:    https://deno.land
-- Caffine:      https://github.com/ccrraaiigg/caffeine
-- LLM cookbook:     https://github.com/phidatahq/phidata/tree/main/cookbook
+- 🦕 Deno Land:    https://deno.land
+- 🍪 LLM cookbook:     https://github.com/phidatahq/phidata/tree/main/cookbook
+
 - Rust & Game Dev:  https://thefuntastic.com/blog/why-rust-is-the-future-game-dev
 - Ruffle:           https://github.com/ruffle-rs/ruffle  &nbsp; <i>(A Flash Player emulator written in Rust)</i>
 - Profile Page Auto-updating: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
