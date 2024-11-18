@@ -1,19 +1,18 @@
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=kustomzone&label=Profile%20views&color=0e75b6&style=flat" alt="kustomzone">
+</p>
 
-### <p align="center"> Study Links </p>
-
-- 🦕 Deno Land:    https://deno.land
-- 🍪 LLM cookbook:     https://github.com/phidatahq/phidata/tree/main/cookbook
-
-- Rust & Game Dev:  https://thefuntastic.com/blog/why-rust-is-the-future-game-dev
-- Ruffle:           https://github.com/ruffle-rs/ruffle  &nbsp; <i>(A Flash Player emulator written in Rust)</i>
-- Profile Page Auto-updating: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
-
-<hr>
+<br><br><br>
 
 <p align="center" justify="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustomzone&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Langs">
 </p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kustomzone&label=Profile%20views&color=0e75b6&style=flat" alt="kustomzone">
+<br><br><br>
+
+<p align="center" justify="center">
+    <img src="https://github.com/kontains/bolt/raw/refs/heads/main/public/images/social.webp" width="600px" height="400px">
 </p>
+
+<hr>
+
