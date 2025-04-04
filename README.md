@@ -5,7 +5,12 @@
 <br><br><br>
 
 <p align="center" justify="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustomzone&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Langs">
+
+ # 📊 GitHub Stats:
+ ![](https://github-readme-stats.vercel.app/api?username=kustomzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=kustomzone&theme=dark&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kustomzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
 
 <br><br><br>
