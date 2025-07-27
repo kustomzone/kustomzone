@@ -3,6 +3,31 @@
 </p>
 
 <table>
+    <p>Qwen3 Study</p>
+    <tr>
+        <span>
+            <p><small>(July 2025)</small></p>
+        </span>
+        <td>
+            <p>
+                https://huggingface.co/models?sort=modified&search=Qwen3-Coder
+                <br>
+                https://news.ycombinator.com/item?id=44653072
+                <br>
+            </p>
+            <br>
+            <p>
+                https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking
+                <br>
+                https://news.ycombinator.com/item?id=44681565
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br><br><br><br><br>
+
+<table>
     <tr>
         <td width="99999" align="center">
             <p color="#787878"> 
