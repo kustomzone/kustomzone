@@ -7,7 +7,12 @@
     <tr>
         <span>
             <p><small>(July 2025)</small></p>
+<br>
+<p>blog:   https://qwenlm.github.io/blog/qwen3-coder/ </p>
+<br>
         </span>
+        <td>
+        </td>
         <td>
             <p>
                 https://huggingface.co/models?sort=modified&search=Qwen3-Coder
