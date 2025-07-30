@@ -12,20 +12,30 @@
 <br>
         </span>
         <td>
+<div align="center">
+
+ </div>
         </td>
         <td>
-            <p>
-                https://huggingface.co/models?sort=modified&search=Qwen3-Coder
-                <br>
-                https://news.ycombinator.com/item?id=44653072
-                <br>
-            </p>
-            <br>
-            <p>
-                https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking
-                <br>
-                https://news.ycombinator.com/item?id=44681565
-            </p>
+<div align="center">
+
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
+
+<p>
+ https://huggingface.co/models?sort=modified&search=Qwen3-Coder
+</p>
+<br>
+<br>
+
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Thinking.jpg">](https://news.ycombinator.com/item?id=44681565)
+
+<p>
+ https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking
+</p>
+
+<br>
+
+ </div>
         </td>
     </tr>
 </table>
