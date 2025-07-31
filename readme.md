@@ -9,29 +9,36 @@
             <p><small>(July 2025)</small></p>
 <br>
 <p>blog:   https://qwenlm.github.io/blog/qwen3-coder/ </p>
-<br>
         </span>
         <td>
 <div align="center">
 
+<p>
+<u>Unsloth models</u>
+<br>
+
+[Qwen3-Coder-480B-A35B-Instruct-GGUF - Heavy](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) <br>
+[Qwen3-Coder-30B-A3B-Instruct GGUFs - Lite](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) <br>
+[Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF)
+
+<u>Other models</u>
+<br>
+
+[Qwen3 Coder models](https://huggingface.co/models?sort=modified&search=Qwen3-Coder)
+[Qwen3 Thinking models](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking)
+</p>
  </div>
         </td>
         <td>
 <div align="center">
+<u>Hackernews</u>
+<br><br>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
 
-<p>
- https://huggingface.co/models?sort=modified&search=Qwen3-Coder
-</p>
-<br>
 <br>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Thinking.jpg">](https://news.ycombinator.com/item?id=44681565)
-
-<p>
- https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking
-</p>
 
 <br>
 
