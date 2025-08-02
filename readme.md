@@ -3,6 +3,12 @@
 </p>
 
 <table>
+<p>
+
+<b> [Rust Language](https://github.com/rust-lang) </b>
+
+</p>
+<br>
     <p>Qwen3 Study</p>
     <tr>
         <span>
