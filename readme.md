@@ -12,55 +12,57 @@
 </thead>
 <tbody style="border: 2px solid black;">
     <tr>
-        <td style="border: 1px solid black;">
-		    <p>Rust</p>
-		    <p><small>(Aug 2025)</small></p>
-			<p><b>
+        <td style="border: 1px solid black" align="center" valign="top">
+            <br>
+            <p>
+	    <b>Rust</b>
+	    <u>(Aug 2025)</small></u>
 
 [Rust Language](https://github.com/rust-lang) 
-			</b></p>
-			<hr>
-            <p>Qwen3</p>
-            <p><small>(July 2025)</small></p>
-            <p><b>
+	    </p>
+	    <hr>
+            <p>
+            <b>Qwen3</b>
+            <u>(July 2025)</u>
 
-[Qwen blog:](https://qwenlm.github.io/blog/qwen3-coder/)
-			</b></p>
+[Qwen3 Coder blog](https://qwenlm.github.io/blog/qwen3-coder/)
+	    </p>
+            <hr>
         </td>
-        <td>
-<div align="center">
-
-<p>
-<u>Unsloth models</u>
-<br>
+        <td align="center" valign="bottom">
+            <hr>
+            <p>
+            <b>Unsloth</b>
+            <br>
 
 [Qwen3-Coder-480B-A35B-Instruct-GGUF - Heavy](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) <br>
 [Qwen3-Coder-30B-A3B-Instruct GGUFs - Lite](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) <br>
 [Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF)
 
-<u>Other models</u>
+<b>Other</b>
 <br>
 
 [Qwen3 Coder models](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
 [Qwen3 Thinking models](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking)
 </p>
- </div>
+<br><br><br>
         </td>
-        <td>
-<div align="center" style="border: 1px solid grey;">
+        <td align="center" style="border: 1px solid grey;">
+<br>
+<p>
+<b>Hiring (August)</b>
+</p>
 
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-aug.jpg">](https://news.ycombinator.com/item?id=44757794)
 
 <br>
 
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/is-hiring-aug.jpg">](https://news.ycombinator.com/item?id=44757794)
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-aug.jpg">](https://news.ycombinator.com/item?id=44757792)
 
-<br>
-
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hirihg-aug.jpg">](https://news.ycombinator.com/item?id=44757792)
-
-<br>
 <hr>
-<br>
+<p>
+<b>Qwen3</b>
+</p>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
 
@@ -69,14 +71,12 @@
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Thinking.jpg">](https://news.ycombinator.com/item?id=44681565)
 
 <br>
-
- </div>
         </td>
     </tr>
 </tbody>
 </table>
 
-<br><br><br><br><br>
+<br><br>
 
 <table>
     <tr>
