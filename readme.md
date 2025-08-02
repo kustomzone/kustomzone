@@ -3,19 +3,30 @@
 </p>
 
 <table>
-<p>
-
-<b> [Rust Language](https://github.com/rust-lang) </b>
-
-</p>
-<br>
-    <p>Qwen3 Study</p>
+<thead>
+  <tr style="border: 2px solid black;">
+    <th>Study</th>
+    <th>Models</th>
+    <th>Hackernews</th>
+  </tr>
+</thead>
+<tbody style="border: 2px solid black;">
     <tr>
-        <span>
+        <td style="border: 1px solid black;">
+		    <p>Rust</p>
+		    <p><small>(Aug 2025)</small></p>
+			<p><b>
+
+[Rust Language](https://github.com/rust-lang) 
+			</b></p>
+			<hr>
+            <p>Qwen3</p>
             <p><small>(July 2025)</small></p>
-<br>
-<p>blog:   https://qwenlm.github.io/blog/qwen3-coder/ </p>
-        </span>
+            <p><b>
+
+[Qwen blog:](https://qwenlm.github.io/blog/qwen3-coder/)
+			</b></p>
+        </td>
         <td>
 <div align="center">
 
@@ -30,15 +41,15 @@
 <u>Other models</u>
 <br>
 
-[Qwen3 Coder models](https://huggingface.co/models?sort=modified&search=Qwen3-Coder)
+[Qwen3 Coder models](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
 [Qwen3 Thinking models](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking)
 </p>
  </div>
         </td>
         <td>
-<div align="center">
-<u>Hackernews</u>
-<br><br>
+<div align="center" style="border: 1px solid grey;">
+
+<br>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
 
@@ -51,6 +62,7 @@
  </div>
         </td>
     </tr>
+</tbody>
 </table>
 
 <br><br><br><br><br>
