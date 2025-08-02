@@ -49,6 +49,17 @@
         <td>
 <div align="center" style="border: 1px solid grey;">
 
+
+<br>
+
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/is-hiring-aug.jpg">](https://news.ycombinator.com/item?id=44757794)
+
+<br>
+
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hirihg-aug.jpg">](https://news.ycombinator.com/item?id=44757792)
+
+<br>
+<hr>
 <br>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
