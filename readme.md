@@ -91,7 +91,23 @@
 </table>
 
 
-<hr><br>
+<hr>
+<br>
+
+<table>
+    <tr>
+        <td width="99999" align="center">
+            <p color="#787878"> 
+            Current Vibe  : Rust 
+
+ [Freenet](https://github.com/freenet/freenet-core) - [Powershell script](https://github.com/kozmic-labs/freenet-temp) 
+              <br><br>
+              <br>
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 <p align="center" justify="center">
 
