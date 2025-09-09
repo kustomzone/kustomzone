@@ -16,9 +16,11 @@
             <br>
             <p>
 	    <b>Rust</b>
-	    <u>(Aug 2025)</small></u>
+	    <u>(Sept 2025)</small></u>
 
 [Rust Language](https://github.com/rust-lang) 
+<br><br>
+[Rust Curious](https://rustcurious.com/elements/)
 	    </p>
 	    <hr>
             <p>
