@@ -44,8 +44,11 @@
 <b>Other</b>
 <br>
 
-[Qwen3 Coder models](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
-[Qwen3 Thinking models](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking)
+[Qwen3 Coder](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
+[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br>
+[Qwen3 VL Thinking small](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking-FP8) <br>
+[Qwen3 VL Thinking large](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking-FP8)
+
 </p>
 <br><br><br>
         </td>
