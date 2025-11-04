@@ -45,9 +45,8 @@
 <br>
 
 [Qwen3 Coder](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
-[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br>
-[Qwen3 VL Thinking small](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking-FP8) <br>
-[Qwen3 VL Thinking large](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking-FP8)
+[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br><br>
+[Qwen3 VL Collection](https://huggingface.co/collections/Qwen/qwen3-vl)
 
 </p>
 <br><br><br>
@@ -58,11 +57,11 @@
 <b>Hiring (October)</b>
 </p>
 
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-aug.jpg">](https://news.ycombinator.com/item?id=45438503)
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-nov.jpg">](https://news.ycombinator.com/item?id=45800465)
 
 <br>
 
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-aug.jpg">](https://news.ycombinator.com/item?id=45438501)
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-nov.jpg">](https://news.ycombinator.com/item?id=45800464)
 
 <hr>
 <p>
