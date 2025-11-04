@@ -54,7 +54,7 @@
         <td align="center" style="border: 1px solid grey;">
 <br>
 <p>
-<b>Hiring (October)</b>
+<b>Hiring (November)</b>
 </p>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-nov.jpg">](https://news.ycombinator.com/item?id=45800465)
