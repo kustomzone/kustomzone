@@ -54,14 +54,14 @@
         <td align="center" style="border: 1px solid grey;">
 <br>
 <p>
-<b>Hiring (January)</b>
+<b>Hiring (Febuary 2026)</b>
 </p>
 
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-jan.jpg">](https://news.ycombinator.com/item?id=46466074).
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857488).
 
 <br>
 
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-jan.jpg">](https://news.ycombinator.com/item?id=46466073).
+ [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857487).
 
 <hr>
 <p>
