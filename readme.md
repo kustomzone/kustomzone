@@ -16,7 +16,6 @@
             <br>
             <p>
 	    <b>Rust</b>
-	    <u>(Sept 2025)</small></u>
 
 [Rust Language](https://github.com/rust-lang) 
 <br><br>
@@ -24,10 +23,11 @@
 	    </p>
 	    <hr>
             <p>
-            <b>Qwen3</b>
-            <u>(July 2025)</u>
+            <b>Qwen3 blog</b>
 
-[Qwen3 Coder blog](https://qwenlm.github.io/blog/qwen3-coder/)
+[Qwen3 Coder](https://qwenlm.github.io/blog/qwen3-coder/) <br><br>
+
+[Qwen3 Coder Next](https://qwen.ai/blog?id=qwen3-coder-next) <br>
 	    </p>
             <hr>
         </td>
@@ -39,14 +39,13 @@
 
 [Qwen3-Coder-480B-A35B-Instruct-GGUF - Heavy](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) <br>
 [Qwen3-Coder-30B-A3B-Instruct GGUFs - Lite](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) <br>
-[Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF)
+[Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) <br>
 
-<b>Other</b>
-<br>
+[Qwen3-Coder-Next-GGUFs](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) <br>
 
 [Qwen3 Coder](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
-[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br><br>
-[Qwen3 VL Collection](https://huggingface.co/collections/Qwen/qwen3-vl)
+[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br>
+[Qwen3 VL Collection](https://huggingface.co/collections/Qwen/qwen3-vl) <br>
 
 </p>
 <br><br><br>
