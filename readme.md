@@ -13,7 +13,7 @@
 <tbody style="border: 2px solid black;">
     <tr>
         <td style="border: 1px solid black" align="center" valign="top">
-            <br>
+            <br/>
             <p>
 	    <b>Rust</b>
 
@@ -21,65 +21,65 @@
 <br><br>
 [Rust Curious](https://rustcurious.com/elements/)
 	    </p>
-	    <hr>
+	    <hr/>
             <p>
             <b>Qwen3 blog</b>
 
-[Qwen3 Coder](https://qwenlm.github.io/blog/qwen3-coder/) <br><br>
+[Qwen3 Coder](https://qwenlm.github.io/blog/qwen3-coder/) <br/><br/>
 
-[Qwen3 Coder Next](https://qwen.ai/blog?id=qwen3-coder-next) <br>
+[Qwen3 Coder Next](https://qwen.ai/blog?id=qwen3-coder-next) <br/>
 	    </p>
             <hr>
         </td>
         <td align="center" valign="bottom">
-            <hr>
+            <hr/>
             <p>
-            <b>Unsloth</b>
-            <br>
+            <b>Unsloth</b> <i>(recent releases)</i>
 
-[Qwen3-Coder-480B-A35B-Instruct-GGUF - Heavy](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) <br>
-[Qwen3-Coder-30B-A3B-Instruct GGUFs - Lite](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) <br>
-[Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) <br>
+[Qwen3.5-397B-A17B-GGUF](https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF) <br/>
+[Qwen3-Coder-Next-GGUFs](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) <br/>
 
-[Qwen3-Coder-Next-GGUFs](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) <br>
+[Qwen3-Coder-480B-A35B-Instruct-GGUF - Heavy](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) <br/>
+[Qwen3-Coder-30B-A3B-Instruct GGUFs - Lite](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) <br/>
+[Qwen3-Coder-30B-A3B-Instruct GGUFs - 1m ctx](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) <br/>
 
-[Qwen3 Coder](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br>
-[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br>
-[Qwen3 VL Collection](https://huggingface.co/collections/Qwen/qwen3-vl) <br>
+[Qwen3 Coder](https://huggingface.co/models?sort=modified&search=Qwen3-Coder) <br/>
+[Qwen3 Thinking](https://huggingface.co/models?sort=modified&search=Qwen3-235B-A22B-Thinking) <br/>
+[Qwen3 VL Collection](https://huggingface.co/collections/Qwen/qwen3-vl) <br/>
 
 </p>
-<br><br><br>
+<br/><br/><br/>
         </td>
         <td align="center" style="border: 1px solid grey;">
-<br>
+<br/>
 <p>
 <b>Hiring (Febuary 2026)</b>
 </p>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857488).
 
-<br>
+<br/>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857487).
 
-<hr>
+<hr/>
 <p>
 <b>Qwen3</b>
 </p>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
 
-<br>
+<br/>
 
  [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Thinking.jpg">](https://news.ycombinator.com/item?id=44681565)
 
-<br>
+<br/>
         </td>
     </tr>
 </tbody>
 </table>
 
-<br><br>
+<br/><br/>
 
 <table>
     <tr>
@@ -94,8 +94,8 @@
 </table>
 
 
-<hr>
-<br>
+<hr/>
+<br/>
 
 <table>
     <tr>
@@ -104,8 +104,7 @@
             Current Vibe  : Rust 
 
  [Freenet](https://github.com/freenet/freenet-core) - [Powershell script](https://github.com/kozmic-labs/freenet-temp) 
-              <br><br>
-              <br>
+              <br/><br/>
             </p>
         </td>
     </tr>
@@ -119,11 +118,10 @@
 
 </p>
 
-<br><br><br>
+<br/><br/>
 
 <p align="center" justify="center">
     <img src="https://github.com/kontains/bolt/raw/refs/heads/main/public/images/social.webp" width="600px" height="400px">
 </p>
 
-<hr>
-
+<hr/>
