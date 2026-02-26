@@ -103,13 +103,14 @@
             <p color="#787878"> 
             Current Vibe  : Rust 
 
- [Freenet](https://github.com/freenet/freenet-core) - [Powershell script](https://github.com/kozmic-labs/freenet-temp) 
+ [Freenet](https://github.com/freenet/freenet-core) <br/>
+ [FreeTalk](https://github.com/free-network/FreeTalk) <br/>
+ [Powershell script](https://github.com/kozmic-labs/freenet-temp) 
               <br/><br/>
             </p>
         </td>
     </tr>
 </table>
-
 
 <p align="center" justify="center">
 
