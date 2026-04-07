@@ -7,7 +7,7 @@
   <tr style="border: 2px solid black;">
     <th>Study</th>
     <th>Models</th>
-    <th>Hackernews</th>
+    <th>Trending</th>
   </tr>
 </thead>
 <tbody style="border: 2px solid black;">
@@ -50,30 +50,17 @@
 </p>
 <br/><br/><br/>
         </td>
-        <td align="center" style="border: 1px solid grey;">
-<br/>
-<p>
-<b>Hiring (Febuary 2026)</b>
-</p>
-
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Is-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857488).
-
-<br/>
-
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/wants-hiring-feb.jpg">](https://news.ycombinator.com/item?id=46857487).
-
-<hr/>
-<p>
-<b>Qwen3</b>
-</p>
-
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Coder.jpg">](https://news.ycombinator.com/item?id=44653072)
-
-<br/>
-
- [<img src="https://github.com/kustomzone/kustomzone/blob/master/img/Qwen3-Thinking.jpg">](https://news.ycombinator.com/item?id=44681565)
-
-<br/>
+        <td align="center" style="border: 1px solid grey;"><br/><br />
+			<p>
+				<b>Claw Code</b>
+			</p>
+  <img width="460" height="340" alt="Image" src="https://github.com/user-attachments/assets/47f7ed9a-461f-4f00-8d87-4c9000abad7b" />
+			<br />
+			<p>
+				
+[search claw apps](https://github.com/search?q=claw+code&type=repositories&s=updated&o=desc&p=1) <br/>
+			</p>
+			<br />
         </td>
     </tr>
 </tbody>
